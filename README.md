@@ -31,6 +31,7 @@ https://stackblitz.com/edit/ionic-calendar-demo?file=pages%2Fhome%2Fhome.html
 # Dependency
 | Calendar Version | Ionic Version | Angular Version | Swiper Version |
 | ------------- | ------------- | ------------- | ------------- |
+| 2.9.x | >=8.0.0 | >=21.0.0 | >=12.0.0 |
 | 2.8.x | >=8.0.0 | >=20.0.0 | >=12.0.0 |
 | 2.7.x | >=8.0.0 | >=20.0.0 | >=11.0.0 |
 | 2.6.x | >=8.0.0 | >=19.0.0 | >=11.0.0 |
